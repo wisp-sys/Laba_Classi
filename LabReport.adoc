@@ -561,7 +561,9 @@ void __iar_program_start( void )
 
 ----
 
+Работы программы представлена ниже:
 
+image::https://github.com/wisp-sys/Laba_Zmeya/blob/main/Photos/gif.gif[]
 
 
 
